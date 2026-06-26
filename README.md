@@ -13,3 +13,6 @@ I also included most of my previous work to show my journey on the course.
   3. Java code.
   4. Game Authentication code practice for REST API.
 
+
+The techniques and strategies that I used are based on the knowledged I acquired from the lessons of CS230, specifically the books **Operating System Concepts, 8th Edition** and **Hands-On Design Patterns with Java**
+Main key technique is to do your research!
