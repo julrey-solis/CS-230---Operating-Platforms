@@ -1,6 +1,6 @@
 This repository is for my course C230 - Operating Platforms activities.
 
-On this repository, I have developed the Software Design for our client The Gaming Room. 
+On this repository, I have written the Software Design for our client The Gaming Room. 
 I have developed the base java program that they will use for their game application Draw It or Lose It
 
 On the Software Design, I have provided information regarding the Requirements, Design constraints, System Architecture Diagram, Evaluation and Recommendations.
